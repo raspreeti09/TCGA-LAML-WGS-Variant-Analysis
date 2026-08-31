@@ -3,7 +3,7 @@
 # Run ONCE before the rest of the pipeline.
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 # ── 1. CRAN packages ──────────────────────────────────────────────────────────
 cran_pkgs <- c(
