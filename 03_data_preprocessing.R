@@ -12,7 +12,7 @@
 #   8. Save filtered MAF and QC metrics
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 library(maftools)
 library(data.table)
