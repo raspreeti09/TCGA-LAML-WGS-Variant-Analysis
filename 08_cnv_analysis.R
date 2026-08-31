@@ -11,7 +11,7 @@
 #   G. Integrate CNV with somatic mutations (comutation × CNA)
 # =============================================================================
 
-source("c:/Users/asus/OneDrive/Desktop/Project-LAML/config/config.R")
+source("config/config.R")
 
 library(data.table)
 library(dplyr)
