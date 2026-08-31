@@ -10,7 +10,7 @@
 #   F. Visualisations: profiles, cosine similarities, per-sample contributions
 # =============================================================================
 
-source("c:/Users/asus/OneDrive/Desktop/Project-LAML/config/config.R")
+source("config/config.R")
 
 # ── Install BSgenome for hg38 (run once) ─────────────────────────────────────
 if (!requireNamespace("BiocManager", quietly = TRUE))
