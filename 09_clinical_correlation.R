@@ -10,7 +10,7 @@
 #   F. Clinical oncoprint with annotation tracks
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 library(maftools)
 library(data.table)
