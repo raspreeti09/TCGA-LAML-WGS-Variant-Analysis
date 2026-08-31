@@ -19,7 +19,7 @@
 #   11 — Summary visualisation
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 SCRIPT_DIR <- CONFIG$scripts
 
