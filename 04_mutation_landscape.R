@@ -11,7 +11,7 @@
 #   • Top-mutated genes barplot
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 library(maftools)
 library(ggplot2)
