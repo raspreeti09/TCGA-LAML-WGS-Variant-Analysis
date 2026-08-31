@@ -3,7 +3,7 @@
 # Run ONCE before the rest of the pipeline.
 # =============================================================================
 
-source("c:/Users/asus/OneDrive/Desktop/Project-LAML/config/config.R")
+source("config/config.R")
 
 # ── 1. CRAN packages ──────────────────────────────────────────────────────────
 cran_pkgs <- c(
