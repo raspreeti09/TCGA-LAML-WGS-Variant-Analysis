@@ -19,7 +19,7 @@
 #   11 — Summary visualisation
 # =============================================================================
 
-source("c:/Users/asus/OneDrive/Desktop/Project-LAML/config/config.R")
+source("config/config.R")
 
 SCRIPT_DIR <- CONFIG$scripts
 
