@@ -11,7 +11,7 @@
 #   • Top-mutated genes barplot
 # =============================================================================
 
-source("c:/Users/asus/OneDrive/Desktop/Project-LAML/config/config.R")
+source("config/config.R")
 
 library(maftools)
 library(ggplot2)
