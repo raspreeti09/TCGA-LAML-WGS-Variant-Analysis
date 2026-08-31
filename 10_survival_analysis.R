@@ -10,7 +10,7 @@
 #   F. Forest plot of Cox HR estimates
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 library(maftools)
 library(survival)
