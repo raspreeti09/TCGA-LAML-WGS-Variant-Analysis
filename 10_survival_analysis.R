@@ -10,7 +10,7 @@
 #   F. Forest plot of Cox HR estimates
 # =============================================================================
 
-source("c:/Users/asus/OneDrive/Desktop/Project-LAML/config/config.R")
+source("config/config.R")
 
 library(maftools)
 library(survival)
