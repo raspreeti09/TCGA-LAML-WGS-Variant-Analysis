@@ -9,7 +9,7 @@
 #   E. Pathway enrichment     — of significant driver genes
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 library(maftools)
 library(dndscv)
