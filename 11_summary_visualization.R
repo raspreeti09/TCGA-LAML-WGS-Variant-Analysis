@@ -8,7 +8,7 @@
 #   D. Summary dashboard (patchwork multi-panel)
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 library(maftools)
 library(ComplexHeatmap)
