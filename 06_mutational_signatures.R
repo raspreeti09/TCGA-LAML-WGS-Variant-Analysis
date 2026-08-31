@@ -10,7 +10,7 @@
 #   F. Visualisations: profiles, cosine similarities, per-sample contributions
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 # ── Install BSgenome for hg38 (run once) ─────────────────────────────────────
 if (!requireNamespace("BiocManager", quietly = TRUE))
