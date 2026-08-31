@@ -21,7 +21,7 @@
 
 source("config.R")
 
-SCRIPT_DIR <- CONFIG$scripts
+SCRIPT_DIR <- CONFIG$root
 
 step_scripts <- c(
   "1"  = "01_setup.R",
