@@ -11,7 +11,7 @@
 #   G. Integrate CNV with somatic mutations (comutation × CNA)
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 library(data.table)
 library(dplyr)
