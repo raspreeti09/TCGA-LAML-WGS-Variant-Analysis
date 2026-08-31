@@ -9,7 +9,7 @@
 #   E. Pathway enrichment     — of significant driver genes
 # =============================================================================
 
-source("c:/Users/asus/OneDrive/Desktop/Project-LAML/config/config.R")
+source("config/config.R")
 
 library(maftools)
 library(dndscv)
