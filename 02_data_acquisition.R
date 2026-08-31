@@ -8,7 +8,7 @@
 #   D. Clinical     — patient clinical / biospecimen metadata
 # =============================================================================
 
-source("config/config.R")
+source("config.R")
 
 library(TCGAbiolinks)
 library(dplyr)
