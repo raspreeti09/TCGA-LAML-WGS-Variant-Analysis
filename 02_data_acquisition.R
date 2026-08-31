@@ -8,7 +8,7 @@
 #   D. Clinical     — patient clinical / biospecimen metadata
 # =============================================================================
 
-source("c:/Users/asus/OneDrive/Desktop/Project-LAML/config/config.R")
+source("config/config.R")
 
 library(TCGAbiolinks)
 library(dplyr)
